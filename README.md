@@ -83,10 +83,6 @@ https://laurindolil.vercel.app
 </div>
 
 <p align="center">
-  <img
-    src="https://w0.peakpx.com/wallpaper/22/412/HD-wallpaper-ten-10-10-number-neon-10-ten-number.jpg"
-    alt="Número de visitantes no perfil"
-  />
 </p>
 ## 🚀 Minhas Skills
 
