@@ -1,22 +1,22 @@
-## Olá, meu nome é {seu nome}!
+## Olá, meu nome é Laurindo!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  🎯 Hacker Ético | Especialista em Cibersegurança | Programador  <strong>sua stack</strong>.<br> Polivalente Sou o Eng. Laurindo, hacker ético com mais de 6 anos de experiência prática em segurança ofensiva e defensiva. Atuo com pentesting, bug bounty, engenharia reversa, OSINT, análise de vulnerabilidades, hardening de sistemas e muito mais. Fundador da Cyber Kamba, lidero três frentes: 🔐 KambaShield – Proteção digital para empresas 🎓 KambaHack – Formação de hackers éticos na prática 🧠 KambaGest – Gestão digital adaptada à realidade a
+https://laurindolil.vercel.app
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **PYTHON | GO | BASH | WEB DEVELOPER | C | C# | JAVASCRIPT | KOTLIN | PHP | TYPESCRIPT | RUST**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **VS Code | Neovim | IntelliJ | GoLand | Rider | CLion | git | Docker | docker-compose | asdf | GitHub Actions | GitLab CI | Semgrep | Dependabot | Snyk | Trivy | venv | poetry | black | isort | flake8 | mypy | pytest | tox | pdb | debugpy | requests | httpx | scapy | pwntools | cryptography | bandit | safety | go mod | gofmt | go vet | golangci-lint | gosec | delve | pprof | shellcheck | bats-core | node | pnpm | npm | yarn | nvm | Vite | esbuild | Webpack | ESLint | Prettier | tsc | Jest | Vitest | Playwright | Cypress | React | Next.js | Express | Fastify | gcc | clang | CMake | Make | gdb | pwndbg | gef | clang-tidy | cppcheck | valgrind | AFL | libFuzzer | ASAN | UBSAN | Visual Studio | dotnet | NuGet | dnSpy | ILSpy | xUnit | NUnit | Android Studio | Gradle | adb | jadx | apktool | frida | JUnit | Espresso | composer | PHPStan | Psalm | php-cs-fixer | PHPUnit | Xdebug | rustup | cargo | clippy | rustfmt | cargo-audit | cargo-fuzz | jq | yq | curl | httpie | tcpdump | Wireshark | tmux | ripgrep | rg | htop | ncdu**
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌  ⤵️
 </p>
 
 <p align="left">
@@ -84,7 +84,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://w0.peakpx.com/wallpaper/22/412/HD-wallpaper-ten-10-10-number-neon-10-ten-number.jpg"
     alt="Número de visitantes no perfil"
   />
 </p>
