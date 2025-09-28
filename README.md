@@ -106,3 +106,4 @@ https://laurindolil.vercel.app
 <code><img height="32" src="https://i.postimg.cc/hv52NVd1/gitlab-logo-svgstack-com-28401759063409.png" alt="GitLab"/></code>
 <code><img height="32" src="https://i.postimg.cc/vBPh65Xx/github-copilot-logo-svgstack-com-28101759063414.png" alt="Copilot"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://i.postimg.cc/1RNc3X4v/ruby-logo-svgstack-com-31281759069123.png" alt="c"/></code>
